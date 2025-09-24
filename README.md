@@ -1,7 +1,7 @@
 (イ) ローカルリポジトリの設定<br>
 ローカルリポジトリを作成するディレクトリにおいてコマンドライン上で<br>
-$ git clone git@github.com:Kitahara43965/contact-form.git<br>
-$ mv contact-form (ローカルリポジトリ名)<br>
+$ git clone git@github.com:Kitahara43965/list.git<br>
+$ mv list (ローカルリポジトリ名)<br>
 とすればリモートリポジトリのクローンが生成され、所望のローカルリポジトリ名のディレクトリが得られます。<br>
 <br>
 (ロ) dockerの設定<br>
